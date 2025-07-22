@@ -196,7 +196,7 @@ const ContactConnectionHub = () => {
                 © {new Date().getFullYear()} TechFolio Pro. Crafted with passion and precision.
               </p>
               <p className="text-text-secondary text-xs mt-2">
-                Built with React, Tailwind CSS, and lots of ☕
+
               </p>
             </div>
           </div>
