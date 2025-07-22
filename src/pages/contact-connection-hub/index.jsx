@@ -202,6 +202,8 @@ const ContactConnectionHub = () => {
           </div>
         </footer>
       </div>
+
+      <script type="module" src="/src/index.jsx"></script>
     </>
   );
 };
